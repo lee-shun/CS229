@@ -5,23 +5,25 @@
 
 
 
-|          Word          |        Meaning         |
+| Word                   | Meaning                |
 | :--------------------: | :--------------------: |
-|      eigenvector       |        特征向量        |
-|        logistic        | 物流的，后勤学的，逻辑 |
-|       quadratic        |   二次的，二次方程的   |
-| （manual) intervention |      （人工）干预      |
-|         tumor          |          肿瘤          |
-|         benign         | 温和的，仁慈的，良性的 |
-|       malignant        |     恶性的，恶毒的     |
-|     sophisticated      |         老成的         |
-|        annotate        |          标注          |
-|      practitioner      |    从业者，专业人员    |
-|        profiler        |         分析器         |
-|        cluster         |         团，簇         |
-|      overlapping       |         重叠的         |
-|        analogy         |    演绎，推理，类比    |
-|     bleeding edge      |     最前沿，尖端的     |
+| eigenvector            | 特征向量               |
+| logistic               | 物流的，后勤学的，逻辑 |
+| quadratic              | 二次的，二次方程的     |
+| （manual) intervention | （人工）干预           |
+| tumor                  | 肿瘤                   |
+| benign                 | 温和的，仁慈的，良性的 |
+| malignant              | 恶性的，恶毒的         |
+| sophisticated          | 老成的                 |
+| annotate               | 标注                   |
+| practitioner           | 从业者，专业人员       |
+| profiler               | 分析器                 |
+| cluster                | 团，簇                 |
+| overlapping            | 重叠的                 |
+| analogy                | 演绎，推理，类比       |
+| bleeding edge          | 最前沿，尖端的         |
+| algorithm              | 算 法                  |
+
 
 
 
