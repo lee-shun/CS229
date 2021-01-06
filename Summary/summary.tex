@@ -1,0 +1,39 @@
+\documentclass{report}
+%文档设置区
+\usepackage{ctex}
+
+\usepackage{color}%字体颜色
+
+\usepackage{enumerate}%编号的宏包
+
+\usepackage{graphicx}%插图宏包
+
+\usepackage{float}%浮动宏包
+
+\usepackage{geometry}%设置页面格式的宏包
+\geometry{left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm}%设置页面格式
+
+\usepackage{titlesec}%目录宏包
+\usepackage{titletoc}
+\usepackage{hyperref}%目录超链接
+\hypersetup{
+colorlinks=true,
+linkcolor=black
+}
+
+\usepackage{titlesec}
+\titleformat{\chapter}{\centering\LARGE\bfseries}{Lecture \thechapter}{1em}{}
+
+\usepackage{amsmath} %数学公式
+\usepackage{amssymb} %数学公式
+
+\title{\heiti Standford CS229 Machine Learning}
+\author{Shun Li 2015097272@qq.com}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\input{Lecture/Lecture2.tex}   
+
+
+\end{document}
