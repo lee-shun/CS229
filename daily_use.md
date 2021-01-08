@@ -14,4 +14,9 @@
 | twiddle                      | 转动，拧动，曲线       |        |
 | semicolon                    | 分号                   |        |
 | flack                        | 宣传                   |        |
-| concave                      | 凹的                   |
+| concave                      | 凹的                   ||
+| enjoy some property |  ||
+| convergence | 收敛 ||
+| spam | 午餐肉，垃圾邮件 ||
+| wrap up | 包裹起来，包装起来，圆满完成 ||
+
